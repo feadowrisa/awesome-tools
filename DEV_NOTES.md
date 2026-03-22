@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Fixed off-by-one error in loop
 - Addressed feedback from self code review
+
+## 2026-03-23
+- Resolved deprecation warnings
